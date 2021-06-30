@@ -17,17 +17,17 @@ tabela z listą rezerwacji oraz wydarzeń
 każda kolumna = 1 stolik
 każdy wiersz = 30 minut
 ma przypominać widok tygodnia w kalendarzu Google, gdzie w kolumnach zamiast dni są różne stoliki
-po kliknięciu rezerwacji lun eventu przechodzimy na stronę szczegółów
+po kliknięciu rezerwacji lub eventu przechodzimy na stronę szczegółów
 
 `/tables/booking/:id`
 zawiera wszystkie informacje dotyczące rezerwacji
 umożliwia edycję i zapisanie zmian
 
-`/tables/booking/:new`
+`/tables/booking/new`
 analogicznie do powyższej, bez początkowych informacji
 `/tables/events/:id`
 analogicznie do powyższej, bez eventów
-`/tables/events/:new`
+`/tables/events/new`
 analogicznie do powyższej, bez eventów, bez początkowych informacji
 
 # Widok kelnera
