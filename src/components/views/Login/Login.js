@@ -1,4 +1,4 @@
-import { styles } from './Login.scss';
+import { styles } from './Login.module.scss';
 import React from 'react';
 import { Link } from 'react-router-dom';
 

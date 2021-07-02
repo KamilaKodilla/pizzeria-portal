@@ -9,7 +9,7 @@ import Login from './components/views/Login/Login';
 
 function App() {
   return (
-    <BrowserRouter basename={'/panel'}>
+    <BrowserRouter>
       <MainLayout>
         <Switch>
           <Route exact path={process.env.PUBLIC_URL + '/login'} component={Login} />

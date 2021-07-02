@@ -1,4 +1,4 @@
-import { styles } from './Dashboard.scss';
+import { styles } from './Dashboard.module.scss';
 import React from 'react';
 import { Link } from 'react-router-dom';
 
