@@ -2,4 +2,13 @@
 
 .component {
   padding: $base-size;
+  background-image: url('../../../images/cards/background-dashboard.jpg');
+}
+
+.table {
+  width: 900px;
+}
+
+.card {
+  width: 120px;
 }
