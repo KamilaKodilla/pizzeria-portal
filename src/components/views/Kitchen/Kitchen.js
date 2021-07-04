@@ -1,4 +1,4 @@
-import { styles } from './Kitchen.module.scss';
+import styles from './Kitchen.module.scss';
 import React from 'react';
 
 const Kitchen = () => (

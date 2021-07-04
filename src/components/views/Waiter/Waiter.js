@@ -1,4 +1,4 @@
-import { styles } from './Waiter.module.scss';
+import styles from './Waiter.module.scss';
 import React from 'react';
 import { Link } from 'react-router-dom';
 
